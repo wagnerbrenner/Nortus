@@ -14,7 +14,7 @@
   "theme": {
     "light": "Light",
     "dark": "Dark",
-    "auto": "Auto"
+    "auto": "Automatic"
   },
   "login": {
     "title": "Welcome back",
@@ -176,6 +176,17 @@
       "loadErrorMessage": "Could not load ticket data. Please try again later.",
       "noTickets": "No tickets found."
     },
+    "loading": "Loading tickets..."
+  },
+  "chat": {
+    "title": "Chat & Virtual Assistant",
+    "loading": "Loading conversation...",
+    "empty": "No messages yet. Start the conversation!",
+    "input": {
+      "placeholder": "Write here..."
+    },
+    "suggestion": {
+      "title": "AI Suggestion"
     "loading": "Loading tickets...",
     "notifications": {
       "createSuccess": "Ticket created successfully!",
