@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 
 interface IndicatorCardProps {
-  name: "basico" | "intermediario" | "premium";
+  name: string;
   conversion: number;
   roi: number;
   value: number;
